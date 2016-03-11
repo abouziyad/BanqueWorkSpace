@@ -42,9 +42,5 @@ public class Groupe implements Serializable{
 	}
 	public void setEmployes(Collection<Employe> employes) {
 		this.employes = employes;
-	}
-	
-	
-	
-	
+	}	
 }

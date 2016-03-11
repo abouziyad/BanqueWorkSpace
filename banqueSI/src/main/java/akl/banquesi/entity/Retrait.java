@@ -7,5 +7,4 @@ import javax.persistence.Entity;
 @DiscriminatorValue("R")
 public class Retrait extends Operation{
 	private static final long serialVersionUID = 1L;
-
 }

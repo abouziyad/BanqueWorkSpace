@@ -50,6 +50,4 @@ public class Client implements Serializable{
 	public void setComptes(Collection<Compte> comptes) {
 		this.comptes = comptes;
 	}
-	
-	
 }
