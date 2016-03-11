@@ -31,6 +31,7 @@ public class Client implements Serializable{
 		this.nomClient = nomClient;
 	}
 	
+	
 	//Getters & Setters
 	public Long getCodeClient() {
 		return codeClient;
